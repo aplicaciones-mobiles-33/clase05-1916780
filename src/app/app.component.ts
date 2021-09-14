@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'mi-primera-ng-app';
+  avatar = '../assets/imagenes/avatar.jpg'
 }
